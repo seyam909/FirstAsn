@@ -81,7 +81,11 @@ section{
     
 }
 .follow-button{
-    background-image: linear-gradient(navy skyblue);
+    text-decoration:none; 
     
-
+    padding: 15px;
+    border-radius: 105px;
+    color:orangered;
+    font-weight: 700;
+    box-shadow: 5px 5px 10px  orange;
 }
