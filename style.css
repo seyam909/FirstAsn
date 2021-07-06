@@ -3,7 +3,9 @@ body{
     margin: 0;
 }
 h1{
-    font-size: 50px;
+    font-size: 60px;
+    color: grey;
+    font-weight: bolder;
     
 }
 .orange{
@@ -26,6 +28,7 @@ section{
     border-radius: 105px;
     color: azure;
     font-weight: 700;
+    box-shadow: 5px 5px 10px  orange;
 }
 .second-box{
     width: 75%;
@@ -46,7 +49,8 @@ section{
 }
 .item-part img{
     width: 150px;
-    border-radius: 30px;
+    border-radius: 25px;
+    padding-left: 10px;
 
 }
 .item-part{
@@ -54,8 +58,8 @@ section{
     padding-right: 10px;
     margin: 5%;
     box-shadow: 10px 10px 30px black;
-    border-radius: 10px;
-    padding-top: 10px;
+    border-radius: 15px;
+    padding-top: 15px;
     
 }
 .follow-tab{
@@ -64,8 +68,20 @@ section{
     
  
 }
-footer p{
-    text-align: center;
+.last-part{
+    
     background-color:black;
-    color: whitesmoke;
+    color: azure;
+    padding-bottom: 10px;
+    text-align: center;
+}
+.bonus{
+    text-align: center;
+    
+    
+}
+.follow-button{
+    background-image: linear-gradient(navy skyblue);
+    
+
 }
